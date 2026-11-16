@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-script: "Marhey", "Kaushan Script", cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+  background-color: #FBF2E9;
+  color: #27272F;
+}
+
+.font-script {
+  font-family: var(--font-script);
+}
+
+.font-arabic {
+  font-family: "Cairo", sans-serif;
+}
+
+.font-arabic-script {
+  font-family: "Marhey", cursive;
+}
+
+
+

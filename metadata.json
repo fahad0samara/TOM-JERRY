@@ -1,0 +1,6 @@
+{
+  "name": "Tom & Jerry — The Chase Never Ends",
+  "description": "Dive into the timeless world of Tom and Jerry — where mischief, laughter, iconic characters, and classic cat-and-mouse chronicles live on.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

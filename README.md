@@ -1,8 +1,25 @@
 # توم وجيري — المطاردة لا تنتهي أبداً! | Tom & Jerry — The Chase Never Ends! 🐱🧀🐭
 
+<p align="center">
+  <img src="./public/assets/tom-and-jerry/hero-chase-wide.png" alt="Tom & Jerry — The Chase Never Ends Hero Banner" width="100%" />
+</p>
+
 تجربة ويب تفاعلية مستوحاة من عالم الكرتون الكلاسيكي **توم وجيري (Tom & Jerry)**، مصممة بدقة عالية مع دعم كامل للغتين **العربية (RTL)** و**الإنجليزية (LTR)**، رسوميات متحركة سلسة، ومؤثرات صوتية تفاعلية.
 
 An interactive, full-width web experience celebrating the timeless world of **Tom & Jerry**, crafted with vintage 1940s animation warmth, full **Arabic (RTL)** and **English (LTR)** support, smooth animations, and synthesized cartoon sound effects.
+
+---
+
+## 📸 معاينة التطبيق | App Preview
+
+<p align="center">
+  <img src="./public/assets/aistudio/image_33557fa8.png" alt="Tom & Jerry Full Landing Page Preview" width="720" />
+</p>
+
+<p align="center">
+  <img src="./public/assets/tom-and-jerry/tom-card-v3.png" alt="Tom Character Card" width="48%" />
+  <img src="./public/assets/tom-and-jerry/jerry-card-v2.png" alt="Jerry Character Card" width="48%" />
+</p>
 
 ---
 
